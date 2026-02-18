@@ -70,13 +70,7 @@ For enhancement of this project following functionalities can be implemented
 - Provide Sentiment Analysis of the generated summary
 - Develop a Discord BOT for SCRIVENER
 
-## Team Members <a name="TeamMember"></a>
 
-- Anshul Navinbhai Patel
-- Bhavya Omprakash Agrawal
-- Darshan Manharbhai Patel
-- Pragna Bollam
-- Rohan Jigarbhai Shah
 				
 ## Acknowledgements <a name="Acknowledgement"></a>
 We would like to thank Professor Dr Timothy Menzies for helping us understand the process of building a good Software Engineering project. We would also like to thank the teaching assistants Xiao Ling, Andre Lustosa, Kewen Peng, Weichen Shi for their support throughout the project.
