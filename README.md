@@ -2,7 +2,7 @@
  <img src="https://github.com/anshulp2912/scrivener/blob/main/media/logo/logo.gif" />
 </h1>
 
-# SCRIVENER 
+# TRANSCRIPT SUMMARIZER
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 [![GitHub issues](https://img.shields.io/github/issues/anshulp2912/scrivener)](https://github.com/anshulp2912/scrivener/issues)
